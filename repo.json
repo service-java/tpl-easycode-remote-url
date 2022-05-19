@@ -1,0 +1,32 @@
+[
+    {
+        "version": "latest",
+        "label": "tpl-jdk8-springboot2-erupt-beetlsql3-2022(后端)",
+        "url": "git@github.com:service-java/tpl-jdk8-springboot2-erupt-beetlsql3-2022.git",
+        "repoType": "backend"
+    },
+    {
+        "version": "latest",
+        "label": "tpl-arco-design-vue-pro-2022(前端)",
+        "url": "https://github.com/ui-javascript/tpl-arco-design-vue-pro-2022",
+        "repoType": "frontend"
+    },
+    {
+        "version": "latest",
+        "label": "tpl-arco-design-vue-pro-2022(前端-安装包)",
+        "url": "https://gitee.com/luo0412/tpl-arco-design-vue-pro-node_modules-2022",
+        "repoType": "frontend/node_modules"
+    },
+    {
+        "version": "latest",
+        "label": "erupt-beetlsql3-arco(nunjucks模板)",
+        "url": "https://github.com/service-java/tpl-codegen-erupt-beetlsql3-arco-2022",
+        "repoType": ".vscode/easycode"
+    },
+    {
+        "version": "latest",
+        "label": "form-create-designer(表单设计器)",
+        "url": "https://github.com/ui-javascript/form-create-designer",
+        "repoType": "fromGenerator"
+    }
+]
